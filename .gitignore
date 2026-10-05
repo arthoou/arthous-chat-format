@@ -1,0 +1,25 @@
+# Generated build output and local development state
+**/.gradle/
+**/.gradle-user-home/
+**/build/
+**/run/
+**/runs/
+**/out/
+**/bin/
+**/.idea/
+**/.vscode/
+**/logs/
+**/crash-reports/
+**/__pycache__/
+*.class
+*.log
+*.zip
+*.jar
+!**/gradle/wrapper/gradle-wrapper.jar
+.env
+.env.*
+*.pem
+*.key
+*.keystore
+*.jks
+.DS_Store
